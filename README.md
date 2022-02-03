@@ -1,1 +1,1 @@
-# Technical_Indicators(Finance)
+# Technical_Indicators(Quant.Finance)
